@@ -1,0 +1,22 @@
+{
+  "additional_special_tokens": [
+    "<|im_start|>",
+    "<|im_end|>",
+    "<|box_start|>",
+    "<|box_end|>",
+    "<|ref_start|>",
+    "<|ref_end|>",
+    "<|md_start|>",
+    "<|md_end|>",
+    "<|txt_contd|>"
+  ],
+  "eos_token": {
+    "content": "<|im_end|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "pad_token": "<|endoftext|>",
+  "unk_token": "<|endoftext|>"
+}
